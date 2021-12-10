@@ -99,7 +99,7 @@ padding-left: 50px;
     {
         position: fixed;
         width: 100%;
-        height: 100vh;
+        height: 50vh;
         background: #2c3e50;
         top: 80px;
         left: -100%;
@@ -151,7 +151,7 @@ padding-left: 50px;
     {
         position: fixed;
         width: 100%;
-        height: 100vh;
+        height: 50vh;
         background: #2c3e50;
         top: 60px;
         left: -100%;
