@@ -83,6 +83,10 @@ section
     
     
 }
+.heading
+{
+font-size:20px;
+}
 @media (max-width:958px)
 {
     .logo
