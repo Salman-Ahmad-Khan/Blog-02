@@ -75,8 +75,8 @@ display: none;
 
 section
 {
-    padding: 0;
-    margin:0;
+    padding: 5px;
+    margin:5px;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
