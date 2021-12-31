@@ -87,6 +87,12 @@ section
 {
 font-size:25px;
 }
+
+img
+{
+height:321px;
+width:100%;
+}
 @media (max-width:958px)
 {
     .logo
