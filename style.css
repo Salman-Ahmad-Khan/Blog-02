@@ -156,18 +156,19 @@ footer a:hover {
 
 @media (max-width:958px) {
     .logo {
-        font-size: 30px;
+        font-size: 35px;
         padding-left: 50px;
     }
 
     nav ul li a {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     img {
         height: 350px;
         width: 70%;
     }
+
 
 }
 
@@ -211,6 +212,23 @@ footer a:hover {
         height: 350px;
         width: 70%;
     }
+
+footer a {
+    /* background-color: darkslateblue; */
+    text-align: center;
+
+    padding: 5px;
+
+    /* padding-bottom: 10px; */
+    /*padding-top: 60rem;*/
+    /* color: lightseagreen; */
+    font-size: 22px;
+
+    background: -webkit-linear-gradient(20deg, red, rgb(7, 7, 240));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
 
 }
