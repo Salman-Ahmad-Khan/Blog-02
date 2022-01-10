@@ -93,6 +93,54 @@ img
 height:250px;
 width:100%;
 }
+
+footer {
+            /* background-color: darkslateblue; */
+            text-align: center;
+            
+          
+           
+           padding-bottom: 10rem;
+           padding-top: 85rem;
+            /* color: lightseagreen; */
+            
+        }
+
+footer a {
+            /* background-color: darkslateblue; */
+            text-align: center;
+            
+          padding: 1.5rem;
+           
+           padding-bottom: 10rem;
+           /*padding-top: 60rem;*/
+            color: lightseagreen;
+            font-size: 2.5rem;
+            font-size: 2.5rem;
+            background: -webkit-linear-gradient(20deg,red,rgb(7, 7, 240));
+    background-clip:text ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+        }
+        .foot {
+            color: white;
+            font-size: 3rem;
+            font-size: 2.5rem;
+            background: -webkit-linear-gradient(220deg,red,rgb(7, 7, 240));
+    background-clip:text ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+        }
+
+        .heart {
+            color: rgb(255, 20, 20);
+            font-size: 3rem;
+        }
+
+
+
+
+
 @media (max-width:958px)
 {
     .logo
