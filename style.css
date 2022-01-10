@@ -100,8 +100,8 @@ footer {
             
           
            
-           padding-bottom: 10rem;
-           padding-top: 85rem;
+           padding-bottom: 10px;
+           padding-top: 45rem;
             /* color: lightseagreen; */
             
         }
@@ -110,13 +110,13 @@ footer a {
             /* background-color: darkslateblue; */
             text-align: center;
             
-          padding: 1.5rem;
+          padding: 5px;
            
-           padding-bottom: 10rem;
+           padding-bottom: 10px;
            /*padding-top: 60rem;*/
             color: lightseagreen;
-            font-size: 2.5rem;
-            font-size: 2.5rem;
+            font-size: 10px;
+            font-size: 10px;
             background: -webkit-linear-gradient(20deg,red,rgb(7, 7, 240));
     background-clip:text ;
     -webkit-background-clip: text;
@@ -124,8 +124,8 @@ footer a {
         }
         .foot {
             color: white;
-            font-size: 3rem;
-            font-size: 2.5rem;
+            font-size: 10px;
+            font-size: 10px;
             background: -webkit-linear-gradient(220deg,red,rgb(7, 7, 240));
     background-clip:text ;
     -webkit-background-clip: text;
@@ -134,7 +134,7 @@ footer a {
 
         .heart {
             color: rgb(255, 20, 20);
-            font-size: 3rem;
+            font-size: 1.5rem;
         }
 
 
